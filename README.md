@@ -1,3 +1,3 @@
 <h3 align="center">
- 👋 Hi, I’m Miguel , a Programmer , Software Developer and a Software Engineer
+ 👋 Hi, I’m Miguel , a Programmer , Software Developer and Engineer
 <h3>
